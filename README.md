@@ -4,4 +4,4 @@ the data set is at https://www.kaggle.com/datasets/rounakbanik/the-movies-datase
 the files 1-moive_metadata.csv
 2-ratings.csv
 
-strp1.py is the project root
+step1.py is the project root
